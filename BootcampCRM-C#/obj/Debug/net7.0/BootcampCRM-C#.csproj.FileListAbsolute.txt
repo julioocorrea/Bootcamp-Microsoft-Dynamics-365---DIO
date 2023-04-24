@@ -1,0 +1,15 @@
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.csproj.AssemblyReference.cache
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.AssemblyInfoInputs.cache
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.AssemblyInfo.cs
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.csproj.CoreCompileInputs.cache
+C:\BootcampCRM-C#\bin\Debug\net7.0\BootcampCRM-C#.exe
+C:\BootcampCRM-C#\bin\Debug\net7.0\BootcampCRM-C#.deps.json
+C:\BootcampCRM-C#\bin\Debug\net7.0\BootcampCRM-C#.runtimeconfig.json
+C:\BootcampCRM-C#\bin\Debug\net7.0\BootcampCRM-C#.dll
+C:\BootcampCRM-C#\bin\Debug\net7.0\BootcampCRM-C#.pdb
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.dll
+C:\BootcampCRM-C#\obj\Debug\net7.0\refint\BootcampCRM-C#.dll
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.pdb
+C:\BootcampCRM-C#\obj\Debug\net7.0\BootcampCRM-C#.genruntimeconfig.cache
+C:\BootcampCRM-C#\obj\Debug\net7.0\ref\BootcampCRM-C#.dll
